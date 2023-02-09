@@ -34,4 +34,7 @@ export default[
     {device: "XR", capacity: "64", S: 28, A: 26, B: 23, C: 19, waste: 15000, display: 3, lcd: 6, backglass: 0, wifi: 4, camera: 4, sensor: 4, faceid: 5, repaired: 4},
     {device: "XR", capacity: "256", S: 31, A: 29, B: 26, C: 22, waste: 15000, display: 3, lcd: 6, backglass: 0, wifi: 4, camera: 4, sensor: 4, faceid: 5, repaired: 4},
     {device: "XR", capacity: "512", S: 32, A: 30, B: 27, C: 23, waste: 15000, display: 3, lcd: 6, backglass: 0, wifi: 4, camera: 4, sensor: 4, faceid: 5, repaired: 4},
+    {device: "11", capacity: "64", S: 37, A: 34, B: 29, C: 26, waste: 20000, display: 3, lcd: 7, backglass: 1, wifi: 5, camera: 6, sensor: 5, faceid: 6, repaired: 6},
+    {device: "11", capacity: "256", S: 43, A: 40, B: 35, C: 32, waste: 20000, display: 3, lcd: 7, backglass: 1, wifi: 5, camera: 6, sensor: 5, faceid: 6, repaired: 6},
+    {device: "11", capacity: "512", S: 45, A: 42, B: 37, C: 34, waste: 20000, display: 3, lcd: 7, backglass: 1, wifi: 5, camera: 6, sensor: 5, faceid: 6, repaired: 6},
 ]
